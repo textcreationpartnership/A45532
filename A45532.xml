@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Society for Reformation of Manners; on Easter-Tuesday, at Kingston upon Thames, 1700. By Gideon Harding, M.A. vicar of Kingston upon Thames</title>
+            <author>Hardinge, G. (Gideon), d. 1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45532</idno>
+            <idno type="STC">Wing H699B</idno>
+            <idno type="STC">ESTC R215876</idno>
+            <idno type="EEBO-CITATION">99827634</idno>
+            <idno type="PROQUEST">99827634</idno>
+            <idno type="VID">32057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1849:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Society for Reformation of Manners; on Easter-Tuesday, at Kingston upon Thames, 1700. By Gideon Harding, M.A. vicar of Kingston upon Thames</title>
+                  <author>Hardinge, G. (Gideon), d. 1713.</author>
+                  <author>Societies for the Reformation of Manners.</author>
+               </titleStmt>
+               <extent>43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst, at the Bible and Three Crowns near Mercers-Chappel in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon for the reformation of manners.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 2d, II, 8 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32057:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the SOCIETY FOR <hi>Reformation</hi> of <hi>Manners;</hi> ON Eaſter-Tueſday, at <hi>Kingſton</hi> upon <hi>Thames,</hi> 1700.</p>
+            <p>By <hi>Gideon Harding,</hi> M. A. Vicar of <hi>Kingſton</hi> upon <hi>Thames,</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and Three <hi>Crowns</hi> near <hi>Mercers-Chappel</hi> in <hi>Cheapſide,</hi> 1700.</p>
+            <pb facs="tcp:32057:2" rendition="simple:additions"/>
+            <pb facs="tcp:32057:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32057:3"/>
+            <pb facs="tcp:32057:3"/>
+            <head>TO THE READER.</head>
+            <p>AS this Sermon was Preach'd, ſo now it is Printed, at the Re<g ref="char:EOLhyphen"/>queſt of a Society of Men, who do not, as far as I have been a<g ref="char:EOLhyphen"/>ble to inform my ſelf, behave themſelves ſuperciliously, nor invade the Office of the Lord's Anointed, conſidered either in a Sacred or Civil ſenſe; and who, by conſe<g ref="char:EOLhyphen"/>quence, are not poſſeſs'd of ſuch Principles, as are apt to hurry others on to Enthuſiaſm: No, they are Men of peaceable and ſober Lives, who ſeem heartily concern'd at the unbridled violation of the Laws of God, and of the good and wholeſom Statutes of their Country; and they wiſh, I dare ſay, with all their Souls, that the Zeal of all Magiſtrates was ſuch, as that they might be excus'd from the Proſecution of Pro<g ref="char:EOLhyphen"/>phane and Immoral Men, for their Vices. And if ſuch Men as theſe ſhall be accounted enemies to their Neighbour-hood, there's
+<pb facs="tcp:32057:4"/>no ſuch thing as true friendſhip in our little World; but the Devil and his Agents may act as they liſt, till they have made us all ripe for Vengeance. All that I ſhall ſay more, before I diſmiſs Thee, is, that I have endeavoured, in this Diſcourſe, to fortifie theſe Men (for whoſe good Succeſs I ſhall ever Pray) againſt all thoſe Inſi<g ref="char:EOLhyphen"/>nuations, which are deſign'd to diſcourage their Proceedings; and to encourage both them and all others that are, or ſhall here<g ref="char:EOLhyphen"/>after be, engag'd in the ſame uſeful <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>dertakings, to go on with their Work as long as the Day laſteth. And if I have con<g ref="char:EOLhyphen"/>tributed, even in a leſſer degree, towards any of theſe ends, Bleſs God for it, and reckon me (if thou pleaſeſt) the meaneſt Servant at His Altar.</p>
+            <closer>
+               <signed>Gideon Harding.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="7" facs="tcp:32057:4"/>
+            <head>A SERMON PREACHED Before the Society for Reformation of Manners, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Tim. 2.8.</hi>
+                  </bibl>
+                  <p>Remember that Jeſus Chriſt, of the Seed of <hi>David,</hi> was raiſed from the Dead.</p>
+               </q>
+            </epigraph>
+            <p>THE Occaſion of theſe Words, was this: St. <hi>Paul</hi> had very lately Conſecrated his belo<g ref="char:EOLhyphen"/>ved <hi>Timothy</hi> a Biſhop, and ſent him, as ſuch, to preſide over the Church of <hi>Epheſus:</hi> And foreſeeing what Afflictions and Perſecutions' he would there meet with, by a faithful Diſcharge of his Paſtoral Office; he ve<g ref="char:EOLhyphen"/>ry
+<pb n="8" facs="tcp:32057:5"/>prudently fortifies him againſt them, by re-minding him of Chriſt's Reſur<g ref="char:EOLhyphen"/>rection; and very properly joins, with that <hi>Memento,</hi> that part of the <hi>Meſ<g ref="char:EOLhyphen"/>ſiah</hi>'s Hiſtory, which declares him to be of the Seed of <hi>David:</hi> For by this, the Apoſtle inculcates, that if <hi>David</hi> (from whom Chriſt, according to the fleſh, deſcended) did undergo ſo many Af<g ref="char:EOLhyphen"/>flictions by the frequent Perſecutions of <hi>Saul,</hi> tho' he had both merited to be his Son-in-Law, and was alſo actually a<g ref="char:EOLhyphen"/>nointed King over <hi>Iſrael,</hi> by the expreſs Command of God; and that, if Jeſus Chriſt, who was King of Peace and Glo<g ref="char:EOLhyphen"/>ry over ſpiritual <hi>Iſrael,</hi> did meet with ſo many Indignites from thoſe his own Country-men, the <hi>Jews,</hi> whom, in the higheſt Charity, He came to ſave; Then might <hi>Timothy,</hi> in all reaſon, patiently endure his expected, rough treatment; as remembring, that <hi>David,</hi> did at laſt, peaceably enjoy <hi>Saul</hi>'s Crown; and that Jeſus Chriſt, after all His Sufferings and Death, did triumphantly Riſe from the Dead, and Aſcended into Heaven, where He now ſits in the Throne of his Glory, <hi>having made His Enemies His Footſtool.</hi>
+            </p>
+            <pb n="9" facs="tcp:32057:5"/>
+            <p>Thus much being premis'd, touching the occaſion of the Words of my Text; before I enter upon the enſuing Diſ<g ref="char:EOLhyphen"/>courſe, I ſhall take the liberty to ſay, That being deſir'd to preach to the So<g ref="char:EOLhyphen"/>ciety for Reformation of Manners, late<g ref="char:EOLhyphen"/>ly ſet up in this Town; I thought, I could not fix upon a more ſeaſonable or ſuitable Subject than the Text will af<g ref="char:EOLhyphen"/>ford. For this being <hi>Easter week,</hi> The Reſurrection of Chriſt ought not, I con<g ref="char:EOLhyphen"/>cluded, to be paſs'd over in ſilence: And the Text, which re-minds <hi>Timothy</hi> of that Grand Article of our Faith, ſuppo<g ref="char:EOLhyphen"/>ſing him in a ſtate of Affliction and Perſecution, thro' a vigorous and cou<g ref="char:EOLhyphen"/>rageous performance of his Duty; I ſaw no reaſon why I might not directly ap<g ref="char:EOLhyphen"/>ply the Apoſtle's Words to you: For, now that you are engag'd, tho' in diffe<g ref="char:EOLhyphen"/>ing circumſtances from <hi>Timothy,</hi> yet in the ſame commendable Deſign of beat<g ref="char:EOLhyphen"/>ing down the ſtrong-holds of Satan, (the faithful diſcharge of which, will often expoſe you to danger and hazard) I ſee not, as I ſaid before, any reaſon, why you ſhould not, with <hi>Timothy, Remember, that Jeſus Chriſt, of the Seed of
+<pb n="10" facs="tcp:32057:6"/>David, was rais'd from the Dead.</hi>
+            </p>
+            <p>In ſpeaking to which Words, I ſhall do theſe two things:</p>
+            <p n="1">I. Shew, that a ſtate of Afflictions and Perſecutions is highly conſiſtent with a ſtate of Chriſtianity.</p>
+            <p n="2">II. Prove, That a frequent Remem<g ref="char:EOLhyphen"/>brance of, and a ſerious Meditation up<g ref="char:EOLhyphen"/>on, the Reſurrection of our Bleſſed Sa<g ref="char:EOLhyphen"/>viour, is the beſt preſervative againſt the prevalency of Afflictions, and the moſt effectual Method to prevent our ſinking and deſponding under their weight.</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall ſhew, That a ſtate of Afflictions and Perſecutions is highly conſiſtent with a ſtate of Chriſtianity.</p>
+            <p>For the full clearing of which Point, it will be very ſufficient, if I can ſhew, that Chriſtianity, or a faithful Adhe<g ref="char:EOLhyphen"/>rence to the Rules of the Goſpel, has ever yet been, and, by parity of Rea<g ref="char:EOLhyphen"/>ſon, will ever be attended with Suffe<g ref="char:EOLhyphen"/>rings. And this will abundantly ap<g ref="char:EOLhyphen"/>pear:</p>
+            <p n="1">1. From the Holy Scriptures.</p>
+            <p n="2">2. From the Examples of ſuch as have ſuffered.</p>
+            <pb n="11" facs="tcp:32057:6"/>
+            <p n="3">3. From the Reaſon and Nature of the Thing.</p>
+            <p>And <hi>Firſt,</hi> The Holy Scriptures of the New Teſtament aſſure us, that Chriſti<g ref="char:EOLhyphen"/>anity will always be attended with Suf<g ref="char:EOLhyphen"/>ferings and Afflictions.</p>
+            <p>When our Bleſſed Saviour, St. <hi>Mark.</hi> 10.29, 30. promis'd His Rewards to them that forſook any thing for His ſake, and the Goſpels; He aſſures them indeed, that they ſhould receive an Hundred-fold; but that they ſhould not be exempted from Perſecutions.</p>
+            <p>So again; St. <hi>Mark</hi> 13.9, 13. He tells ſome of the Apoſtles plainly, that, if they adher'd to his Doctrine, they ſhould <hi>be delivered up to Councils; be beaten in the Synagogues; be brought be<g ref="char:EOLhyphen"/>fore Rulers and Kings; and be hated of all</hi> (wicked unchriſtian) <hi>Men.</hi>
+            </p>
+            <p>The ſame thing is recorded, tho' in a different Caſe, yet in almoſt the ſame Words, St. <hi>Matth.</hi> 10.17, 18.</p>
+            <p>And that Chriſt might effectually pre<g ref="char:EOLhyphen"/>pare His Diſciples to undergo thoſe Per<g ref="char:EOLhyphen"/>ſecutions, with Courage, which he knew would befall them, after his Departure; He directs a great part of His dying
+<pb n="12" facs="tcp:32057:7"/>Diſcourſe to them this way, <hi>St. Joh.</hi> 14.15, 16. Chapters, that they ſhould be evry ſeverely dealt with on His Account, and be in almoſt conſtant Tribula<g ref="char:EOLhyphen"/>tion. And all along, the Apoſtolical Epiſtles, Chriſtians are frequently warn'd to be, upon their guard, againſt their Ene<g ref="char:EOLhyphen"/>mies Aſſaults. All which Inſtances, with many more that might be eaſily produc'd, do abundantly prove, that the ſtate of Chriſtianity, muſt be a ſtate of Suffering.</p>
+            <p>
+               <hi>Secondly,</hi> This will be farther evi<g ref="char:EOLhyphen"/>denc'd by the Examples of Chriſt and his Apoſtles, as well as of others who have lived ſince Chriſt.</p>
+            <p>A Man cannot but ſee, (tho' he only takes a curſory view of the Four Goſ<g ref="char:EOLhyphen"/>pels) that the whole Life of our Bleſſed Saviour, from the vile Manger to the Bloody Croſs, was one continued Scene of Sufferings and Afflictions.</p>
+            <p>The things which Men generally moſt eſteem, are nobleneſs of Birth, Honour, Riches, and a fair Reputation. But which of all theſe was the portion of our deareſt Redeemer?</p>
+            <p>'Tis true indeed, that the ever Bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="13" facs="tcp:32057:7"/>Jeſus, (according to the fleſh) de<g ref="char:EOLhyphen"/>ſcended from the Royal Line of <hi>David,</hi> both by <hi>Joſeph,</hi> His ſuppoſed Father, and by <hi>Mary</hi> His true Mother, as <hi>St. Mat.</hi> Chap. 1. and <hi>Luke,</hi> Chap. 3. do atteſt in their Genealogies: But, beſides that, this is not allow'd by the latter Jewiſh Rabbi's, wherein conſiſted that Pomp and Splendour that uſually appears at the Birth of Princes. We know, 'tis true, that <hi>a Star appear'd to the Wiſe<g ref="char:EOLhyphen"/>men in the Eaſt,</hi> (Mat. 2.1, 29.) about the time of Jeſus's Birth, by which they were directed to go to <hi>Bethlehem, to Worſhip Him;</hi> and that a Quire of Angels (<hi>Luk.</hi> 2.8, &amp;c.) proclaim'd Him, to the Shepherds, <hi>A Saviour Chriſt the Lord.</hi> And one might reaſonably have expected, that the whole Jewiſh Nation ſhould have been ready to accommo<g ref="char:EOLhyphen"/>date their <hi>Meſſiah</hi> with every thing, anſwerable to his Character; but on the direct contrary, not ſo much as a Lodging room can be procur'd for Him; no, He muſt be content with a Man<g ref="char:EOLhyphen"/>ger, inſtead of a Bed or a Cradle; and inſtead of a good Fire, to nouriſh His tender Body, and to defend it from cold,
+<pb n="14" facs="tcp:32057:8"/>He ſhall feel no other heat, than what is emitted from the breath and dung of Beaſts.</p>
+            <p>Honours, and Riches, and a plentiful Subſtiſtence, were but the juſt due of ſo welcome a Gueſt to the World: But inſtead of theſe, Chriſt himſelf tells us, that He had not ſo much as a reſting place of His own: <hi>The Foxes have holes, and the Birds of the Air have neſts; but the Son of Man hath not where to lay his Head,</hi> St. <hi>Matth.</hi> 8.20. And yet as poor and miſerable as He was, the Tax<g ref="char:EOLhyphen"/>gatherers demanded Tribute of Him at <hi>Capernaum,</hi> for the uſe of the Temple, and force Him to work a Miracle to pay it, St. <hi>Matth.</hi> 17.24, &amp;c. A fair and unſpotted Reputation (laſtly) Chriſt might well have expected from his own Country-men, among whom He went continually about, doing good; but in<g ref="char:EOLhyphen"/>ſtead of more deſerv'd Eulogies, they contemptibly call'd Him, the <hi>Carpenter</hi>'s <hi>Son, a Galilean, a Gluttonous Man and a Wine-biber, and a friend of Publicans and Sinners.</hi>
+            </p>
+            <p>But, beſides that bitter portion of hunger and cold, poverty and diſgrace,
+<pb n="15" facs="tcp:32057:8"/>which the innocent Son of God ſhared; what Snares were there laid for His Life? How many Stones were taken up to throw at Him, for only telling the <hi>Jews</hi> neceſſary and ſeaſonable Truths? What Sorrows and Agonies did He feel in the Garden? What unſpeakable Tor<g ref="char:EOLhyphen"/>ments (laſtly) did He undergo on the Croſs?</p>
+            <p>If theſe were not Afflictions, I'm cer<g ref="char:EOLhyphen"/>tain there is then no ſuch thing as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in humane Nature; and if the Captain of our Salvation ſuffered ſo much from a froward and perplexing World, muſt the Souldiers, liſted under Him, expect no Scars in His Quarrel? No, no: His Apoſtles and Evangeliſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s met with much the ſame uſage, as He met with; for be<g ref="char:EOLhyphen"/>ſides that contempt and hatred, thoſe Stripes and Impriſonments they were conſtantly expos'd to: One was Stoned to death; another was Beheaded; a third was Crucified with his Head down<g ref="char:EOLhyphen"/>ward; ſome died one Death, others a<g ref="char:EOLhyphen"/>nother; and all of 'em (St. <hi>John</hi> only excepted, as the Eccleſiaſtical Hiſtori<g ref="char:EOLhyphen"/>ans relate) were barbarouſly murdered for adhering to their Maſter's Doctrine:
+<pb n="16" facs="tcp:32057:9"/>Not that St. <hi>John</hi> ended his days in an exemption from Perſecutions; for be<g ref="char:EOLhyphen"/>ſides that, he was baniſh'd into <hi>Patmos,</hi> as he ſays of himſelf, <hi>Rev.</hi> 1.9. <hi>for the Word of God, and for the Testimony of Jeſus Chriſt: Tertullian</hi> vouches, that before his Baniſhment, he was accus'd to <hi>Domitian,</hi> and, by his Proconſul in <hi>Aſia,</hi> ſent to <hi>Rome;</hi> where, at the Em<g ref="char:EOLhyphen"/>perour's Command, he was caſt into a Caldron of boyling Oyle; from which, notwithſtanding he eſcap'd, as unhurt, as thoſe Servants of God, who were caſt into the Fiery Furnace, <hi>Dan.</hi> 3d. Ch.</p>
+            <p>Of this, I think, we may be very cer<g ref="char:EOLhyphen"/>tain, that only St. <hi>John,</hi> of all the Apo<g ref="char:EOLhyphen"/>ſtles, had that favour of God (maugre all the Spite of Men and Devils) that he died, without violence in a good Old Age, when he had lived about 72 Years after Chriſts Aſcenſion into Heaven.</p>
+            <p>Nor did Perſecution find a period with the Death of the Apoſtles, but ra<g ref="char:EOLhyphen"/>ther it might then be ſaid to begin to bear date: For about five Years after St. <hi>John</hi>'s peaceable Exit (as if that de<g ref="char:EOLhyphen"/>viliſh Spirit of Malice would have an ample Satisfaction, for the eſcape of one
+<pb n="17" facs="tcp:32057:9"/>Apoſtle out of its hands) that truly A<g ref="char:EOLhyphen"/>poſtolical man St. <hi>Ignatius</hi> Bp. of <hi>Antioch,</hi> was condemn'd by the Emperor <hi>Trajan,</hi> to the Lions; and being ſent to <hi>Rome,</hi> was there torn to pieces by Brutes, leſs Savage than the Spectatours, in the <hi>Amphitheatre.</hi>
+            </p>
+            <p>And that very venerable Man, St. <hi>Polycarp,</hi> Bp. of <hi>Smyrna,</hi> was condem<g ref="char:EOLhyphen"/>ned to the Flames; to ſuch Flames (I ſpeak it by the Teſtimony of Eye<g ref="char:EOLhyphen"/>witneſſes) as rather ſought to guard, than to conſume his Body; inſomuch that the Executioner was forc'd to diſ<g ref="char:EOLhyphen"/>patch him with his Sword, when but half burned.</p>
+            <p>To theſe two I might add <hi>Juſtin-Mar<g ref="char:EOLhyphen"/>tyr, Origen,</hi> and St. <hi>Cyprian</hi> Bp. of <hi>Car<g ref="char:EOLhyphen"/>thage,</hi> who all were put to Death for the Cauſe of Chriſt: Nay, I might fill A Sermon, with a bare recital of the ſingle Sufferings of the great <hi>Athanaſius,</hi> Bp. of <hi>Alexandria;</hi> only becauſe he would not ſtrike Sail to the <hi>Arians,</hi> and betray the Catholick-Faith; but that I intend not a Martyrology. What then ſhall I ſay more? The time would
+<pb n="18" facs="tcp:32057:10"/>fail me to give you but a ſhort Abſtract of the frequent Baniſhments, the ſtrange Tortures, and the various Deaths, that were inflicted, not on the Fathers of the Church only, but on Thouſands of private Chriſtians, during Ten bloody Perſecutions.</p>
+            <p>Thus much only, I ſhall here add, that what the Author to the Hebrews ſays of the Patriarchs, Judges of <hi>Iſrael,</hi> and of the Prophets, <hi>Heb.</hi> 11.35, &amp;c. was lite<g ref="char:EOLhyphen"/>rally true of the primitive Chriſtian Martyrs; <hi>They were tortur'd, not accep<g ref="char:EOLhyphen"/>ting deliverance; that they might obtain a better Reſurrection. And others had trials of cruel Mockings and Scourgings, yea moreover, of Bonds and Impriſon<g ref="char:EOLhyphen"/>ment. They were Stoned, they were Sawn aſunder, were Tempted, were ſlain with the Sword; they wandred about in Sheep<g ref="char:EOLhyphen"/>shins, and Goat skins, being deſtitute, afflicted, tormented, they wandred in Deſarts, and in Mountains, and in Dens and Caves of the Earth.</hi>
+            </p>
+            <p>All this they contentedly endur'd, for the ſake of their moſt excellent Re<g ref="char:EOLhyphen"/>ligion, and for that warrantable Zeal
+<pb n="19" facs="tcp:32057:10"/>which they ſhew'd, in aſſerting and holding faſt the Heavenly Doctrine of God their Saviour.</p>
+            <p>By this time, I ſuppoſe, I have pro<g ref="char:EOLhyphen"/>duc'd Examples enough to ſhew, that Afflictions are to be expected in a zea<g ref="char:EOLhyphen"/>lous Profeſſion, and earneſt Practice of Chriſtianity. I proceed now <hi>(Thirdly)</hi> to clear this Point yet further, by ſhewing the Reaſon and Nature of the thing it ſelf.</p>
+            <p>The Religion of a Chriſtian is eſta<g ref="char:EOLhyphen"/>bliſh'd upon Principles, that are very contrary to the corrupted Inclinations of Mankind: Men ſometimes feel in themſelves ſuch impetuous Deſires af<g ref="char:EOLhyphen"/>ter ſenſual Enjoyments, and Nature eggs 'em on ſo faſt to a compliance with its Dictates, that they no ſooner yield, than they're tempted to think that, That Religion had not God for its Author, which ſo directly gain-ſays their Paſſions, and denies 'em the fru<g ref="char:EOLhyphen"/>ition of their ſtrongeſt Longings.</p>
+            <p>Hence is it, that a Man cannot ven<g ref="char:EOLhyphen"/>ture to reprove Men for their Vices, or, with the moſt friend-like Eſſays, endeavour to convince 'em of their Miſ<g ref="char:EOLhyphen"/>takes;
+<pb n="20" facs="tcp:32057:11"/>takes; but immediatly he'l find an In<g ref="char:EOLhyphen"/>ſurrection of their malignant Spirits, and a ſtrange Alteration in their very looks; and though they may then play the Sy<g ref="char:EOLhyphen"/>cophant ſo far, as to thank him for his kindneſs; yet they ſhall, it may be e<g ref="char:EOLhyphen"/>ver after, greedily catch at every op<g ref="char:EOLhyphen"/>portunity of venting their rancor and hatred, by a ſtudious miſrepreſentation of all that he ſays or does; and the higheſt pitch of their Charity ſhall be found to center in his continual Defa<g ref="char:EOLhyphen"/>mation. Every ſerious and conſide<g ref="char:EOLhyphen"/>ring Chriſtian muſt needs atteſt this Truth on a too frequent Experience; and both Sacred and Church-Hiſtories, furniſh us with too many inſtances of the ſame Nature.</p>
+            <p>St. <hi>John Baptiſt</hi> might have kept his head on his ſhoulders, if he would but have let <hi>Herod</hi> alone, and not have reprov'd him for his Inceſt; ſo like<g ref="char:EOLhyphen"/>wiſe might the Apoſtles have died in their Beds, if they could have ſate down contented, to ſee Judaiſm rampant, and the Worſhip of Idols prevalent: But no ſooner do they purſue their trueſt Intereſt, in a faithful Execution of
+<pb n="21" facs="tcp:32057:11"/>their Commiſſion, than they are per<g ref="char:EOLhyphen"/>ſecuted for it, by Stripes, Stonings, Im<g ref="char:EOLhyphen"/>priſonments, and Death</p>
+            <p>And from the Tranſactions of thoſe ſeveral Occurrences, in all Ages of Chriſtianity, down to this preſent time; we may reaſonably conclude, that the ſame game is to be play'd to the World's end: For the Reaſon of the Thing continuing for ever the ſame; and the Oppoſition that impious wretch<g ref="char:EOLhyphen"/>es will always make to Lectures and Examples of Piety and Vertue, ſtand<g ref="char:EOLhyphen"/>ing upon one bottom; we may certain<g ref="char:EOLhyphen"/>ly infer, without a Spirit of Prophecy, that as the ſtate of Chriſtianity has e<g ref="char:EOLhyphen"/>ver been, and in our Age is, a ſtate of Afflictions; ſo that it will never ceaſe to be ſo, till time is ſwallowed up by Eternity.</p>
+            <p>Having thus at large prov'd:
+<list>
+                  <item>1. From expreſs Texts of Scrip<g ref="char:EOLhyphen"/>ture.</item>
+                  <item>2. From many Examples of perſe<g ref="char:EOLhyphen"/>cuted Chriſtians.</item>
+                  <item>3. From the Reaſon and Nature of the Thing.</item>
+               </list>
+            </p>
+            <pb n="22" facs="tcp:32057:12"/>
+            <p n="1">I. That a ſtate of Afflictions is very conſiſtent with a zealous and vigo<g ref="char:EOLhyphen"/>rous diſcharge of the Duties of Chri<g ref="char:EOLhyphen"/>ſtianity.</p>
+            <p n="2">II. I proceed now to my 2d. Gene<g ref="char:EOLhyphen"/>ral Head, which was to ſhew, That a frequent Remembrance of, and a ſeri<g ref="char:EOLhyphen"/>ous Meditation upon the Reſurrection of our Bleſſed Saviour, is the beſt Pre<g ref="char:EOLhyphen"/>ſervative againſt the prevalency of thoſe Afflictions, that are entail'd up<g ref="char:EOLhyphen"/>on a Chriſtian ſtate.</p>
+            <p>I need not be tedious in an Argu<g ref="char:EOLhyphen"/>ment of this nature, after St. <hi>Paul</hi> himſelf has preſs'd it home in the Words of my Text.</p>
+            <p>I ſhall therefore only inforce the A<g ref="char:EOLhyphen"/>poſtle's <hi>Memorandum,</hi> by theſe Two Obſervations following. And</p>
+            <p>
+               <hi>Firſt,</hi> We may obſerve, that Men are generally ſo devoted to this World, and their Souls are ſo ſtrongly bent to<g ref="char:EOLhyphen"/>wards ſenſible Objects, that, ſo long eſpecially as their Sails are crowded with a proſperous Gale, they very rarely will afford one thought to the things that may or ſhall hereafter hap<g ref="char:EOLhyphen"/>pen. The preſent time is what they
+<pb n="23" facs="tcp:32057:12"/>are for, and they thence reſolve, as they falſly eſtimate things, to loſe none of it; but with the blind Watchmen, whom the Prophet inveigheth againſt, <hi>Iſa.</hi> 56.12. they ſolace themſelves; <hi>Come ye, ſay they, I will fetch Wine, and we will fill our ſelves with Strong drink, and to Morrow ſhall be as this Day, and much more abundant.</hi>
+            </p>
+            <p>But now, if God ſhall pleaſe to ſend a ſlight Affliction upon theſe Men; there's an immediate damp upon their Spirits, they're quite at their wits end; and they complain as much, at a little Head-ach, as if they were loſing their Limbs or their Lives: The Reaſon is manifeſt; they don't think of Afflicti<g ref="char:EOLhyphen"/>ons till they feel their weight; and then, having made no proviſion againſt the Evil Day, by a regular Devotion and Meditation, they fret, they mur<g ref="char:EOLhyphen"/>mur and repine, and are ſtill at a loſs, how to be eaſy under the load that op<g ref="char:EOLhyphen"/>preſſeth them.</p>
+            <p>Whereas, on the contrary, if Men would but allow one Hour in a Day for thinking, and ſpend that very little part of their Youth and Health in a ſe<g ref="char:EOLhyphen"/>rious
+<pb n="24" facs="tcp:32057:13"/>Reflection upon thoſe many Evils and Diſappointments, which the moſt Righteous and Innocent Son of God met with; what a ſcanty portion of worldly goods He enjoyed; what Hard<g ref="char:EOLhyphen"/>ſhips He encountred; and what Seve<g ref="char:EOLhyphen"/>rities. He was, all His Life, expos'd to: But that after all His Sufferings, even unto Death, He gloriouſly aroſe from the Priſon of the Grave, after Three Days Burial, and Triumphantly Aſcen<g ref="char:EOLhyphen"/>ded into Heaven, and Sate on the Right Hand of God: If, I ſay, Men would often and ſeriouſly meditate on theſe things; this would moſt effectually quell their peeviſh and impatient De<g ref="char:EOLhyphen"/>ſires after the good Things of this Life; this would teach 'em to know them<g ref="char:EOLhyphen"/>ſelves to be but Men; this, laſtly, would both prepare 'em for Sufferings, and make 'em contentedly undergo a few momentary Afflictions, that ſo they might at laſt partake of the ſame joyful Reſurrection to eternal Pleaſures and Delights, of which their great Fore<g ref="char:EOLhyphen"/>runner and Author of their Faith, has already been partaker.</p>
+            <pb n="25" facs="tcp:32057:13"/>
+            <p>
+               <hi>Secondly,</hi> We may obſerve; That not only diſappointments, croſſes and loſſes, in things relating to the Body, but e<g ref="char:EOLhyphen"/>ven Afflictions of an higher nature, ſuch as are peculiar to the Mind of Man, would ſit more eaſy, by frequently <hi>re<g ref="char:EOLhyphen"/>membring, that Jeſus Chriſt, of the Seed of David, was raiſed from the Dead.</hi>
+            </p>
+            <p>How angry and churliſh do ſome Men grow, when they fail of that re<g ref="char:EOLhyphen"/>ſpect, which they think to be their due? A Rich Man, with a proud Heart and towring Thoughts, believes, that every one affronts him, that does not pay him all the reverence, which is claim'd only by the Nobility, <hi>&amp;c.</hi> it may be, by Princes of the Blood Roy<g ref="char:EOLhyphen"/>al: Nay, even a Man in narrow cir<g ref="char:EOLhyphen"/>cumſtances, who has made it his great care to do his Duty to God and to his Neighbour, thinks it no ſmall hardſhip to be expos'd to want and diſtreſs; he is inclin'd to think that Divine provi<g ref="char:EOLhyphen"/>dence neglects him, and, poſſibly, is tempted to forſake, or to grow more remiſs in, his Chriſtian Duty; by his beſt diſcharge of which, he meets with oppreſſion, inſtead of encouragement;
+<pb n="26" facs="tcp:32057:14"/>and inſtead of the love, he gains only the ill-will and hatred of his Neighbours.</p>
+            <p>In both theſe Inſtances, to which moſt other Caſes may be eaſily reduc'd: The beſt method for the afflicted Man to take, will be to conſider the exem<g ref="char:EOLhyphen"/>plary Humility, Patience, and Reſig<g ref="char:EOLhyphen"/>nation of Mind, which appear'd ſo e<g ref="char:EOLhyphen"/>minently in Chriſt our Head: Our ever Bleſſed Redeemer was infinitely more innocent and inoffenſive, than the beſt of Men either now are, or ever were; and yet, nothing but calamity and affliction, contempt and ſcorn, diſ<g ref="char:EOLhyphen"/>grace and calumny were the Rewards of His Goodneſs and Charity: And if He, who was Lord and King of both Worlds, was willing, for our ſakes, to endure all this, without one Murmur<g ref="char:EOLhyphen"/>ing word or Repining thought; ſhall we, that are ſinful duſt and aſhes, complain and rail, and be at our wits end, meer<g ref="char:EOLhyphen"/>ly becauſe we ſuffer ſome petty, ſhort<g ref="char:EOLhyphen"/>liv'd evils? Better will it become us all, in prudence, to <hi>hold faſt the profeſ<g ref="char:EOLhyphen"/>ſion of our Faith, without wavering,</hi> and patiently and ſubmiſſively to demean our ſelves, under all the calamities of
+<pb n="27" facs="tcp:32057:14"/>mind that ſhall befal us: For if we do this willingly, we have our reward; we ſhall find ſuch a calmneſs, ſedate<g ref="char:EOLhyphen"/>neſs, and compoſure in our Breſts, as Words cannot aptly deſcribe; and we ſhall hereafter be carried up to Heaven, where we ſhall be fill'd with ſuch won<g ref="char:EOLhyphen"/>der and joy, as are only competible with our then enlarg'd faculties, and be compleatly bleſſed in thoſe Manſi<g ref="char:EOLhyphen"/>ons of our God, which Jeſus Chriſt, by His Death, has purchas'd, and is now going to prepare, for all His faith<g ref="char:EOLhyphen"/>ful and obedient Servants.</p>
+            <div type="part">
+               <p>THe Inference, from what has been ſaid in this Diſcourſe, is, in general, This; That no perſon ought to forbear a vigorous proſecution of his Duty, upon the ſcore of that calumny and diſgrace, that malice and hatred, thoſe afflictions and perſecutions, that the profligate and wicked are always rea<g ref="char:EOLhyphen"/>dy to load him with. I have before ſuggeſted, that the whole Hoſt of Chriſtian Martyrs might have liv'd and died in peace, (in the peace of this World, I mean, for I doubt not but
+<pb n="28" facs="tcp:32057:15"/>that in their Lives they had daily in<g ref="char:EOLhyphen"/>ward Peace of Mind, and in their Death Comfort) if they would have been, as ſome in thoſe early Days, and others both in Queen <hi>Mary's,</hi> and in a later Reign, were, <hi>Proditores,</hi> and have tamely delivered up their Bibles to be burn'd, and cowardly forſaken the Re<g ref="char:EOLhyphen"/>ligion of the Goſpel: But contrariwiſe, they conſidered themſelves, as Souldiers and Voluntiers, liſted and engag'd to fight under the Banner of Chriſt; they remembred, at once, His Sufferings, and His Victory, in the end; they dai<g ref="char:EOLhyphen"/>ly ſaw their Biſhops and Paſtors ſuffer Martyrdom with an inflexible Courage and Conſtancy, and, by their brave Example, were animated to endure the loſs of all things, rather than draw back unto Perdition.</p>
+               <p>And, Oh that we, who are as Fire<g ref="char:EOLhyphen"/>brands pluck'd out of the Fire, and have not many Years ſince eſcap'd, by a wonderful Deliverance, could be in<g ref="char:EOLhyphen"/>fluenc'd, by the Carriage of ſuch Chriſti<g ref="char:EOLhyphen"/>an Heroes, to ſeek for true Peace with God, and with our own Conſciences!
+<pb n="29" facs="tcp:32057:15"/>But how ſhall this Peace be obtain'd? Be not ſtartled at what I ſay; This Peace cannot, humanely ſpeaking, be found, but in a continual warfare with the Devil, the World, and the Fleſh; in a perpetual reſiſtance of all Tempta<g ref="char:EOLhyphen"/>tions; and in a conſtant abſtinence from all worldly and carnal Luſts: Theſe are thoſe our deadly and impla<g ref="char:EOLhyphen"/>cable Enemies, which, if we uſe not our whole ſtock of Grace and Induſtry to deſtroy, will never leave the Field, till they have leſt us none remaining, and have carried away both us and our ſtandards to Hell.</p>
+               <p>But if we be careful, as it infinitely concerns us to be, to ſteer our Lives by the Compaſs of God's Law; if we couragiouſly ſet upon, and go through with, the works of Righteouſneſs, and true Holineſs; and if we will be per<g ref="char:EOLhyphen"/>ſwaded to exerciſe ſuch a Zeal for the Honour of God, and for the depreſs'd Cauſe of Religion and Virtue, as has Chriſtian Prudence and Knowledge for its inſeparable Aſſociates; we may rea<g ref="char:EOLhyphen"/>ſonably expect an happy Voyage to
+<pb n="30" facs="tcp:32057:16"/>the Haven of Reſt and Peace.</p>
+               <p>And what if it ſhould happen, that the frowns of the Wicked, that the utmoſt rage and fury of Men and De<g ref="char:EOLhyphen"/>vils, ſhould conſtantly attend and pur<g ref="char:EOLhyphen"/>ſue us, in this our Conflict? Shall theſe things move us to leave labouring in our Maſter's Vineyard? Heaven avert ſuch ſloth and cowardice! Can we forget, that, <hi>by the help of our God, we ſhall be able to leap over all theſe Walls?</hi> Or can we imagin, that if we do our parts manfully, the Grace of our Lord Jeſus Chriſt will be wanting to enable us to keep our Ground?</p>
+               <p>Only, amidſt all the trials and temp<g ref="char:EOLhyphen"/>tations we lie under, let us often and earneſtly ſeek, in prayer, for God's Aſſiſtance and Direction; and fre<g ref="char:EOLhyphen"/>quently <hi>remember, that Jeſus Chriſt of the Seed of</hi> David, <hi>was raiſed from the Dead;</hi> and let this ſingle Conſideration inſpire us with patience and fortitude in our extreameſt Sufferings: And then we ſhall not fail of that Crown of Glory which Jeſus, our Lord and our God, has in ſtore for all His Vic<g ref="char:EOLhyphen"/>torious
+<pb n="31" facs="tcp:32057:16"/>Souldiers and Servants; which He bought for us, with the price of His own moſt precious Blood; Which He has aſſur'd us of, by His Reſurrec<g ref="char:EOLhyphen"/>tion from Death and the Grave; and which He Aſcended up into Heaven, to put on our Heads with His own Hands.</p>
+               <p>If theſe comfortable Promiſes are not true and juſt, and certainly to be relied on; I do not only ſay, that Chriſtians are, <hi>of all Men moſt miſera<g ref="char:EOLhyphen"/>ble;</hi> but then alſo, I ſay, that the Sa<g ref="char:EOLhyphen"/>cred Scripture is (as it has been often phras'd by ſome inconſiderate Men among us of unfound and Heterodox Principles) <hi>an inſignificant and dead Letter;</hi> and then, by neceſſary conſe<g ref="char:EOLhyphen"/>quence, both <hi>our Preaching is vain, and your Faith is vain.</hi>
+               </p>
+               <p>Thus much I thought fit to offer, in the general, by way of Applicati<g ref="char:EOLhyphen"/>on to all People, as being that, in which every Chriſtian living is con<g ref="char:EOLhyphen"/>cerned.</p>
+               <p>But I have other, and more parti<g ref="char:EOLhyphen"/>cular things to ſay of, and to you, for
+<pb n="32" facs="tcp:32057:17"/>whoſe ſakes, more eſpecially, this Diſ<g ref="char:EOLhyphen"/>courſe was made, not more through your earneſt ſolicitation, than a chearful compliance on my part.</p>
+               <p>You have declar'd your ſelves ſenſi<g ref="char:EOLhyphen"/>ble of the diſhonour done to God, by the open profaneneſs of many diſſolute and lewd Perſons, profeſſing Chriſtiani<g ref="char:EOLhyphen"/>ty; which indeed is ſo great, that I cannot but wonder, that ſome, other<g ref="char:EOLhyphen"/>wiſe diſcerning, People, ſhould not be able to ſee, that we haſten, what we can, to make our ſelves and the Na<g ref="char:EOLhyphen"/>tion too, ripe for deſtruction: I wiſh, I might ſay truly, that theſe ſhort-ſighted Folks, did not wink hard, and affect blindneſs.</p>
+               <p>It cannot be denied, that we have many good Laws, now in force, againſt Immorality and Profaneneſs; and ſuch, as, if duly and impartially executed, would force all open Vice eſpecially, to pull in its horns: But on the o<g ref="char:EOLhyphen"/>ther hand, it cannot, and therefore ought not, to be diſſembled, that the ſupineneſs and remiſſneſs of thoſe Per<g ref="char:EOLhyphen"/>ſons, which ſhould put theſe wholſom
+<pb n="33" facs="tcp:32057:17"/>Statutes in execution, and make 'em living Laws, is ſhameful and abomi<g ref="char:EOLhyphen"/>nable: This is the repeated Language of our Parliament, in their Addreſſes; and of our King, in his Proclamati<g ref="char:EOLhyphen"/>ons; and theſe were the Thoughts, and in the Orders, of our late moſt Gracious Queen, of bleſſed Memory, who firſt incourag'd, and promis'd to protect the Societies for <hi>Reformation</hi> of <hi>Manners;</hi> and with ſo good and ho<g ref="char:EOLhyphen"/>nourable Company, I truſt, I ſhall never have cauſe to repent, that I have opened my Mouth ſo wide.</p>
+               <p>It is pretended, we all know, by Magiſtrates in general, that they can only puniſh ſuch as offend in their ſight and hearing: But do Adulte<g ref="char:EOLhyphen"/>rers and Adultereſſes (whoſe Eyes wait for the twi-light, that no Eye may ſee them) uſe to act their various Scenes of Lewdneſs before the Magi<g ref="char:EOLhyphen"/>ſtrate's Face? Or do they, that impu<g ref="char:EOLhyphen"/>dently and profanely accuſtom them<g ref="char:EOLhyphen"/>ſelves to Curſing and Swearing, affect to belch out their horrid Oaths and
+<pb n="34" facs="tcp:32057:18"/>Imprecations, in the preſence or hear<g ref="char:EOLhyphen"/>ing of the Magiſtrate? No, theſe things they care not to do: For tho' they fear not God, yet they regard Man, when their Intereſt lies at ſtake, and either their Purſes, or their Bodies, muſt ſatisfie the Sanction of that Law, which they tranſgreſs. Or laſtly, is it for the Honour either of our Laws or of our Law-givers, that the common Swearer, or the Drunkard, or the in<g ref="char:EOLhyphen"/>ceſtuous Perſon, or the Whore and her Maſter, ſhould be indulg'd and con<g ref="char:EOLhyphen"/>nived at? Or that Stews and obſcene Houſes ſhould be openly tolerated by the State, as it is practis'd at <hi>Rome,</hi> at <hi>Venice,</hi> and at <hi>Amſterdam?</hi> If not: Why ſhall he be thought a buſy and forward fellow, and why ſhall he be ſtigmatiz'd with hard Names, that will not ſuffer all theſe Sins upon his Bro<g ref="char:EOLhyphen"/>ther? Or why ſhall the Magiſtrate frown upon, and not rather incou<g ref="char:EOLhyphen"/>rage, all that in him lies, the Perſon that informs him againſt all theſe Of<g ref="char:EOLhyphen"/>fenders?</p>
+               <p>But it may be objected, that in Ci<g ref="char:EOLhyphen"/>ties
+<pb n="35" facs="tcp:32057:18"/>and Corporations, there are many Officers, whoſe proper buſineſs it is, and whoſe Oaths oblige them, to ſearch after, and to bring to puniſh<g ref="char:EOLhyphen"/>ment, all that violate the Laws of the Land, or the particular and By-laws of ſuch reſpective Juriſdictions; and therefore that ſuch Societies of Men, as are now on foot, being for the moſt part, Inhabitants of ſuch Cities and Incorporated Villages, are not at all neceſſary.</p>
+               <p>But what if ſuch places abound with Officers? What tho' theſe Of<g ref="char:EOLhyphen"/>ficers are bound by the ſacred Obli<g ref="char:EOLhyphen"/>gation of an Oath, to look diligently after, and impartially to preſent all Of<g ref="char:EOLhyphen"/>fences, without favour or affection, hatred or ill will? All this is but a more ſolemn piece of pageantry; when neither their Obligations to God, nor to their Neighbour, can prevail to make 'em do their Duty.</p>
+               <p>The ſafety, and flouriſhing ſtate of every Common-wealth, depend almoſt altogether upon the virtue of its com<g ref="char:EOLhyphen"/>ponent
+<pb n="36" facs="tcp:32057:19"/>individuals: But if we may gueſs at the health and ſoundneſs of a Body, by the ill Symptoms we ſee in many of its Members; I am ſure, that we have very great reaſon to apprehend that our ſtate is much ſhattered, and near to a total diſſolution.</p>
+               <p>So that, let it but be granted (and I know not how it can be denied) that Vice ought to be diſcountenanc'd and ſuppreſs'd; and let it but be own'd (for I'm ſure 'tis a great truth) that neither of theſe are done, as they both ought to be, and might be done; and then, I am bold to ſay it, I plead both for the honour of God, and for the good of the Common-wealth, in making the beſt way I can, for the incouragement and protection of ſuch a Society, as have undertaken to do their utmoſt, towards the pulling down the ſtrong holds of Sin and Satan.</p>
+               <p>Hitherto, I have endeavoured only to thew the uſefulneſs of ſuch a Soci<g ref="char:EOLhyphen"/>ety, as many here preſent have form'd
+<pb n="37" facs="tcp:32057:19"/>themſelves into; and which is there<g ref="char:EOLhyphen"/>fore neceſſary, if for no other Rea<g ref="char:EOLhyphen"/>ſon, yet for that mutual Encouragement, which is thereby given to Men of courage, to ſhew themſelves. 'Tis in this caſe, as it is in the defence of a Town, or of one's Country; The hands of one Man, or of but a few Men, are not ſufficient to guard the Breach, or to repel the Enemy: I need not, I hope, ſhew the juſtneſs of the Allu<g ref="char:EOLhyphen"/>ſion; for the Caſe is too too obvious to every one's Experience.</p>
+               <p>Let me, now, then intreat the Ma<g ref="char:EOLhyphen"/>giſtrates of this antient Corporation, and all other Men of influence, to look with a favourable Aſpect on the So<g ref="char:EOLhyphen"/>ciety, here lately ſet up; not to be jealous at the Undertaking, as if (what has been ſaid by ſome unthinking Men) the Game of <hi>Forty One</hi> was to be play'd over again; but to believe it, as really it is in it ſelf, and by the prudent management of its Members, it may prove, a very uſeful and excel<g ref="char:EOLhyphen"/>lent thing.</p>
+               <pb n="38" facs="tcp:32057:20"/>
+               <p>This Society, I am glad to ſee it, has already had a good effect in this place; I do not hear frequent Swearing in the Streets, as, I too often, have heard, before the Society was form'd: Let God be prais'd for theſe Glean<g ref="char:EOLhyphen"/>ings; He will, in His own good time, give us, I doubt not, a plentiful Harveſt: In the mean time, to you, that are engag'd in ſo good a Deſign, I ſpeak it, from the Apoſtle, <hi>Gal.</hi> 6.9. <hi>be ye not weary in well-doing; for in due ſeaſon ye ſhall reap, if ye faint not.</hi>
+               </p>
+               <p>And in order to this very deſira<g ref="char:EOLhyphen"/>ble Bleſſing, let my Advice take place with you. Labour for a Reformati<g ref="char:EOLhyphen"/>on of other Men's Manners, by firſt reforming and amending your own: Remember that Character of an Hy<g ref="char:EOLhyphen"/>pocrite, which Chriſt himſelf has given, St. <hi>Matth.</hi> 7.3. who officiouſly offers <hi>to pull out the mote, out of his Brother's Eye;</hi> but all the while forgets, <hi>that a beam is in his own Eye.</hi> You know how to apply this paſſage; and, I hope, you will ſo effectually, that I need not do it.</p>
+               <pb n="39" facs="tcp:32057:20"/>
+               <p>Let Courage and Conduct, let Zeal and Prudence go hand in hand, and be never ſeparated from any of your Undertakings. But here ariſes a diffi<g ref="char:EOLhyphen"/>culty, which has been propos'd to me; and that is, whether you ought to diſtinguiſh between an habitual, cuſto<g ref="char:EOLhyphen"/>mary, and confirm'd Sinner; and him that, it may be, is for the firſt time a tranſgreſſour? For my part, to ſpeak freely, I think the diſtinction abſolute<g ref="char:EOLhyphen"/>ly neceſſary, and in the higheſt reaſon, warrantable: For if you can reclaim the latter, at a proper ſeaſon, by a gentle rebuke, and private admoni<g ref="char:EOLhyphen"/>tion; I'm ſure, that you'l do him more good, and, by conſequence, diſcharge your own duty better, than if you made his offence more publick, by an information to the Magiſtrate. Not that I would be thought to adviſe par<g ref="char:EOLhyphen"/>tially; for ſurely this method may have a much ſofter term, and be ra<g ref="char:EOLhyphen"/>ther call'd a higher and more endearing Charity; and as ſuch only, I recom<g ref="char:EOLhyphen"/>mend it to you.</p>
+               <p>Let no Man's wickedneſs, how great
+<pb n="40" facs="tcp:32057:21"/>ſoever, no, not his rude and ill lan<g ref="char:EOLhyphen"/>guage, nor yet the worſt of his defa<g ref="char:EOLhyphen"/>mations, tempt you to hate his Per<g ref="char:EOLhyphen"/>ſon, or but to wiſh him harm; but rather ſhew your ſelves indeed good Men, in the practice of thoſe Com<g ref="char:EOLhyphen"/>mands, which are ſolely Chriſtian, St. <hi>Matth.</hi> 5.44, &amp;c. by <hi>loving your ene<g ref="char:EOLhyphen"/>mies;</hi> by <hi>bleſſing them that curſe you;</hi> by <hi>doing good to them that hate you;</hi> and by <hi>praying for them that deſpiteful<g ref="char:EOLhyphen"/>ly uſe you, and perſecute you.</hi> Spend much of your time in Prayer to God, to inſpire you with a truly Chriſtian Zeal, for His Glory, and your Neigh<g ref="char:EOLhyphen"/>bour's good: And becauſe you will find, that the World will hate you, and that the more good you do, the more will aſperſions purſue you; Arm your ſelves with ſtedfaſt Reſolution and Prayer, to bear all theſe ſlight Skir<g ref="char:EOLhyphen"/>miſhes with fortitude and magnani<g ref="char:EOLhyphen"/>mity.</p>
+               <p>Be not disheartned at the diſappoint<g ref="char:EOLhyphen"/>ments you may meet with, either through the want of Courage and Sincerity in ſome of your own Members,
+<pb n="41" facs="tcp:32057:21"/>or by the little ground you can, at firſt, gain; He that is deſirous of be<g ref="char:EOLhyphen"/>ing an inſtrument of ſuppreſſing ram<g ref="char:EOLhyphen"/>pant Vices, muſt be content to weed them up one by one: <hi>Be ye</hi> then <hi>ſtrong in the Lord, and in the power of his Might.</hi> Ye have taken upon you to plead and defend the Cauſe of GOD, and of Vertue, which is now grown very much out of Faſhion; you ought therefore to learn to deſpiſe the little, mean, ill-will of Man, when eſpecially you cannot win his favour, but by loſing your God, and your inward Peace.</p>
+               <p>And the more to ſtrengthen your hands in this uſeful Undertaking; call to mind your Baptiſmal Vow; by which you ſtand oblig'd to Renounce the Devil, and all his Works; the Pomps and Vanities of this wicked World, and all the ſinful Luſts of the Fleſh. For my part, I do not ſee, that you have ingaged your ſelves any thing beyond this, in becoming Mem<g ref="char:EOLhyphen"/>bers of your reſpective Society.</p>
+               <pb n="42" facs="tcp:32057:22"/>
+               <p>Reflect often on that Admonition which Chriſt gave to his Apoſtles, St. <hi>Matth.</hi> 10.32, 33. <hi>Whoſoever ſhall confeſs Me before men, him will I con<g ref="char:EOLhyphen"/>feſs alſo before my Father which is in Heaven.</hi>
+               </p>
+               <p>
+                  <hi>But whoſoever ſhall deny Me before men, him will I alſo deny before my Fa<g ref="char:EOLhyphen"/>ther which is in Heaven.</hi>
+               </p>
+               <p>And <hi>fear not them which kill the Body,</hi> ('tis Chriſt's own Advice in the ſame chapter, and on much the ſame occaſion, that I am now Preaching on) <hi>but are not able to kill the Soul,</hi> &amp;c. nor let your Hearts fail you in this warfare; for though the Oppoſition that you'l meet with, be ſtrong; yet for your comfort, St. <hi>John</hi> has aſſur'd you, 1 <hi>John</hi> 4.4. that <hi>greater is he that is in you, than he that is in the World.</hi>
+               </p>
+               <p>What remains, is, only that I diſ<g ref="char:EOLhyphen"/>charge my duty to you, by recom<g ref="char:EOLhyphen"/>mending You, and your Undertaking, to the Throne of Grace; which I of<g ref="char:EOLhyphen"/>ten, and heartily ſhall; and now do, in
+<pb n="43" facs="tcp:32057:22"/>St. <hi>Paul</hi>'s words, 1 <hi>Theſ.</hi> 5.23. <hi>The ve<g ref="char:EOLhyphen"/>ry God of peace Sanctifie you wholly: And I pray God, your whole Spirit, and Soul, and Body, be preſerv'd blameleſs unto the coming of our LORD JES<g ref="char:V">Ʋ</g>S CHRIST.</hi>
+               </p>
+               <closer>To whom, <hi>&amp;c.</hi> be all Glory, Ho<g ref="char:EOLhyphen"/>nour, and Adoration, both now and ever. <hi>Amen.</hi>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
